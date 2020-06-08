@@ -100,7 +100,6 @@ public class Parallelogram {
 
     // 4. Override toString() method
 
-
     @Override
     public String toString() {
         return "Parallelogram { " +
@@ -116,7 +115,6 @@ public class Parallelogram {
     }
 
     // 5. Override hash() and equals() methods.
-
 
     @Override
     public boolean equals(Object o) {
